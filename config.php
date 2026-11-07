@@ -1,7 +1,7 @@
 <?php
 // Database configuration
 $host = 'localhost';
-$dbname = 'guestbook_db';
-$username = 'root'; // Change if necessary
-$password = ''; // Change if necessary
+$dbname = 'Actividad2';
+$username = 'Admin'; // Change if necessary
+$password = 'Unir2026'; // Change if necessary
 ?>
